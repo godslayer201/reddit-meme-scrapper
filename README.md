@@ -26,5 +26,3 @@ Would you like to continue from last url in the log? (y/n)
 If yes, the script will prompt asking the number of pages to be downloaded and continue from the given url.
 If no, the script will ask the name of the subreddit and then the number of pages to be downloaded.
 
-# Video Tutorial #
-[![asciicast](https://asciinema.org/a/273038.png)](https://asciinema.org/a/273038)
